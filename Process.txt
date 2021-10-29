@@ -8,4 +8,5 @@ void Process(int num[],int n)
 		else
 			num[i]*=5;
 	}
+                cout<<"当前函数操作完成"<<endl;
 }
